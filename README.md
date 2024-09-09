@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jun</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jun!!" />
+</h1>
 <h3 align="center">A passionate fullstack developer from Viet Nam</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" align="right" width="400">
