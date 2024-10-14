@@ -13,6 +13,8 @@
 
 - 🌱 I’m currently learning **Next.js** and **Machine Learning**, **Cryptography**
 
+- ⚡ Fun fact **I'm Arch Linux User**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/tien.tranphanminh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minh tiến" height="30" width="40" /></a>
