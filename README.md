@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Sushi-Themed-Website](https://github.com/JunCodera1/Sushi-Themed-Website)
+- 🔭 I’m currently working on [Basic Project 2](https://github.com/JunCodera1/MusicWebsiteProjectBasic2)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js** and **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
