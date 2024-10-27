@@ -15,6 +15,13 @@
 - ⚡ Fun fact **I'm Arch Linux User**
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding">
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/TieByn26/TieByn26/blob/output/github-contribution-grid-snake-dark.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
