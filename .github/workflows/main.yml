@@ -4,13 +4,13 @@ name: Generate Snake
 # Controls when the action will run.
 on:
   schedule:
-      # every 12 hours
-    - cron: "0 */48 * * *"
+    # every 12 hours
+    - cron: "0 */12 * * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
   
-  # Also run on every push on the master branch
+  # Also run on every push on the main branch
   push:
     branches:
     - main
@@ -39,8 +39,10 @@ jobs:
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Show build status
-        run: git status
+      - name: Configure Git
+        run: |
+          git config --global user.name "Your Name"
+          git config --global user.email "you@example.com"
 
       - name: Push new files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -50,3 +52,6 @@ jobs:
           commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Show build status
+        run: git status
