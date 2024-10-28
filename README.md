@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Basic Project 2](https://github.com/JunCodera1/MusicWebsiteProjectBasic2)
+- 🔭 I’m currently working on [Soundbox](https://github.com/JunCodera1/SoundBox)
 
 - 🌱 I’m currently learning **Next.js** and **Machine Learning**, **Cryptography**
 
