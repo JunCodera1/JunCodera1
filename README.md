@@ -66,9 +66,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,bootstrap,c,cpp,css,git,html,java,js,linux,mongodb,mysql,nodejs,php,express,postgres,py,react,sass,tailwind,ts,unity,d3,figma,heroku,postman" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=oracle,sklearn" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,git,html,java,js,linux,mongodb,mysql,nodejs,express,py,react,tailwind,heroku,postman,rust" />
 </div>
 
 <div align="center">
