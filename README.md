@@ -23,8 +23,9 @@
 
 <div align="center">
   <b>🎵 Building Soundbox - A Modern Music Platform</b><br>
-  <b>🌱 Exploring Next.js, Machine Learning & Cryptography</b><br>
+  <b>🌱 Exploring Next.js, Machine Learning, Rust & Cryptography</b><br>
   <b>🐧 Proud Arch Linux User</b>
+  <b>📖 Language : English, Japanese </b>
 </div>
 
 <div align="center">
