@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <b>🎵 Building Soundbox - A Modern Music Platform</b><br>
+  <b>📃 Developing a Robust Project Management SaaS Platform Hosted on AWS</b><br>
   <b>🌱 Exploring Next.js, Machine Learning, Rust & Cryptography</b><br>
   <b>🐧 Proud Arch Linux User</b><br>
   <b>📖 Language : English, Japanese </b>
