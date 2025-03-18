@@ -67,7 +67,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,git,html,java,js,linux,mongodb,mysql,nodejs,express,py,react,tailwind,heroku,postman,rust" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,lua,cpp,css,git,html,java,js,linux,mongodb,mysql,nodejs,express,py,react,tailwind,heroku,postman,rust" />
 </div>
 
 <div align="center">
