@@ -18,7 +18,7 @@
         <ul>
           <li>🔭 Currently developing a <b>Robust Project Management SaaS Platform</b> on AWS</li>
           <li>🌱 Exploring <b>Next.js</b>, <b>Machine Learning</b>, <b>Rust</b> & <b>Cryptography</b></li>
-          <li>🐧 Proud <b>Arch Linux</b> enthusiast and advocate</li>
+          <li>🐧 Proud <b>NixOS Linux</b> enthusiast and advocate</li>
           <li>🌏 Languages: <b>English</b>, <b>Japanese</b>, <b>Vietnamese</b></li>
           <li>⚡ Fun fact: I solve competitive programming challenges for fun</li>
         </ul>
