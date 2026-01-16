@@ -96,7 +96,20 @@
   </a>
 </div>
 
-## <div align="center">🐍 CONTRIBUTION GRAPH</div>
+## <div align="center">🐍 SNAKE</div>
+
+<div align="center">
+  <img src="https://github.com/JunCodera1/JunCodera1/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+</div>
+
+## <div align="center">👾 PACMAN</div>
+<!--- Source: https://github.com/abozanona/pacman-contribution-graph -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JunCodera1/JunCodera1/output-pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JunCodera1/JunCodera1/output-pacman/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JunCodera1/JunCodera1/output-pacman/pacman-contribution-graph.svg">
+</picture>
+
 
 <div align="center">
   <img src="https://github.com/JunCodera1/JunCodera1/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
