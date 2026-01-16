@@ -110,11 +110,6 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JunCodera1/JunCodera1/output-pacman/pacman-contribution-graph.svg">
 </picture>
 
-
-<div align="center">
-  <img src="https://github.com/JunCodera1/JunCodera1/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
-</div>
-
 ## <div align="center">🔗 CONNECT WITH ME</div>
 
 <div align="center">
